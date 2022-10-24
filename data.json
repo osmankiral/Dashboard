@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "James",
+        "balance": "143,624",
+        "statistics": "10",
+        "employees": "7",
+        "spending": "3,287.49",
+        "clients": "54",
+        "invoicesOverdue": "6",
+        "recentEmails": [
+            {
+                "name": "Hannah Morgan",
+                "mail": "Meeting scheduled",
+                "date": "1:24 PM"
+            },
+            {
+                "name": "Megan Clark",
+                "mail": "Update on marketing compaign",
+                "date": "12:32 PM"
+            },
+            {
+                "name": "Brandon Williams",
+                "mail": "Designly 2.0 is about to launch",
+                "date": "Yesterdar at 8:57 PM"
+            },
+            {
+                "name": "Reid Smith",
+                "mail": "My friend Julle loves Dappr!",
+                "date": "Yesterdar at 8:49 PM"
+            }
+        ]
+    }
+]
